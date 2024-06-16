@@ -70,3 +70,6 @@ to-do-list-app/
 - gui_todo.py: Graphical user interface version of the application.
 - tasks.json: JSON file for saving tasks.
 - assets/: Directory for GUI assets (icons, images, etc.).
+
+## OUTPUT 
+![OUTPUT](https://github.com/AyushGorlawar/CODSOFT_Task01/blob/main/output.png)
