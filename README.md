@@ -1,4 +1,4 @@
-# CODSOFT_Task01
+
 # To-Do List Application
 ## Overview
 ### The To-Do List Application is a Python-based project designed to help users manage and organize their tasks efficiently. This application can be developed as either a command-line interface (CLI) or a graphical user interface (GUI), providing flexibility based on user preferences. Users can create, update, and track their to-do lists effortlessly, ensuring they stay on top of their tasks and priorities.
